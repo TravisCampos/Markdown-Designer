@@ -41,8 +41,7 @@
 ### Amazon Web Services (AWS)
 <p>
   The production build of Markdown Designer is deployed to and hosted on Amazon Web Services. Amazon Web Services provides cloud solutions to help create, build,
-  and scale web applications. With the assistance of Amazon Web Services, Markdown Designer is able to perform load balancing, server-side caching, and database scaling quickly and efficiently.
-  Markdown Designer also includes CI/CD pipeline integration along with vertical and horizontal scaling to meet the demands of user activity.
+  and scale web applications. With the assistance of Amazon Web Services, Markdown Designer is able to perform load balancing, server-side caching, and database scaling quickly and efficiently. Markdown Designer also includes CI/CD pipeline integration along with vertical and horizontal scaling to meet the demands of user activity.
 </p>
 
 ### Primary Solutions
