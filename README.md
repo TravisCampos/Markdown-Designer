@@ -51,6 +51,5 @@
 
 
 ## __Link__:
-<a target="_blank" href="https://markdowndesigner.com">
-<img src="img/MarkdownBlue.svg" width="90" height="90">
+<a target="_blank" href="https://markdowndesigner.com">Markdown Designer Web Application
 </a>
